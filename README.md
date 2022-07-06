@@ -4,7 +4,7 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/mkaouer">
@@ -13,7 +13,7 @@
 </a>
 </p>
 
-### ⚙️⚡ Recent GitHub Activity
+### ⚡ &nbsp;Recent GitHub Activity
   
   <br/>
    <a href="https://github.com/mkaouer"><img alt="mkaouer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mkaouer&custom_title=mkaouer's%20Contribution%20Graph&theme=react-dark" /></a>
