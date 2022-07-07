@@ -11,6 +11,7 @@
 	<a href="https://www.linkedin.com/in/mkaouer/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/mkaouer"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/mwmkaouer/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<img src="https://komarev.com/ghpvc/?username=mkaouer&color=brightgreen" alt="watching_count" />
 </p>
 
 
@@ -32,7 +33,7 @@
 
 ### <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> &nbsp;GitHub Trophies
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<br>
 <img src="https://github-profile-trophy.vercel.app/?username=mkaouer&theme=juicyfresh&no-bg=true" />
 
 <!--
