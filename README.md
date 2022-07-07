@@ -5,7 +5,7 @@
 </p>
  <p align="center">
    <img src="https://img.shields.io/badge/Lives-Rochester-success" />
-  <img src="https://img.shields.io/badge/Languages-English Arabic French" />
+  <img src="https://img.shields.io/badge/Languages-English Arabic-French" />
   	<img src="https://komarev.com/ghpvc/?username=mkaouer&color=brightgreen" alt="watching_count" />
 </p>
 
