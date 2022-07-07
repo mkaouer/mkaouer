@@ -30,7 +30,7 @@
    <a href="https://github.com/mkaouer"><img alt="mkaouer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mkaouer&custom_title=mkaouer's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-### ⚡ &nbsp;GitHub Trophies
+### <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> &nbsp;GitHub Trophies
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=mkaouer&theme=juicyfresh&no-bg=true" />
