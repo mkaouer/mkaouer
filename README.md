@@ -4,6 +4,7 @@
 
 ## 👋 &nbsp;Connect with me
 <p align="center">
+	<a href="https://www.mkaouer.net"><img src="https://img.shields.io/badge/-mkaouer.net-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 	<a href="mailto:mkaouer@gmailcom><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/mkaouer"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/013133384829"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
