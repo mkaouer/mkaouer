@@ -46,6 +46,9 @@
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=mkaouer&theme=juicyfresh&no-bg=true" />
 
+## Random Joke
+<p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
+
 <!--
 **mkaouer/mkaouer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
