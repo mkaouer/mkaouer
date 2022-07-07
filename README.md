@@ -5,7 +5,6 @@
 </p>
  <p align="center">
    <img src="https://img.shields.io/badge/Lives-Rochester-success" />
-  <img src="https://img.shields.io/badge/Languages-English Arabic-French" />
   	<img src="https://komarev.com/ghpvc/?username=mkaouer&color=brightgreen" alt="watching_count" />
 </p>
 
@@ -18,6 +17,7 @@
 	<a href="https://www.linkedin.com/in/mkaouer/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/mkaouer"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/mwmkaouer/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://twitter.com/mwmkaouer/"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=mwmkaouer&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fmwmkaouer"></a>
 </p>
 
 
@@ -36,6 +36,10 @@
   <br/>
    <a href="https://github.com/mkaouer"><img alt="mkaouer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mkaouer&custom_title=mkaouer's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+
+  
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mkaouer&theme=algolia" alt="mkaouer" /></p>
 
 ### <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" /> &nbsp;GitHub Trophies
 
