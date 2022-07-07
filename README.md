@@ -4,9 +4,8 @@
 
 </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
    <img src="https://img.shields.io/badge/Lives-Rochester-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Arabic%20%26%20French" />
+  <img src="https://img.shields.io/badge/Languages-English Arabic French" />
   	<img src="https://komarev.com/ghpvc/?username=mkaouer&color=brightgreen" alt="watching_count" />
 </p>
 
