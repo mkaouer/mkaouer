@@ -30,7 +30,7 @@
 ### 📊 &nbsp;GitHub Analytics
 <table align="center">
   <tr>
-    <td valign="top" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkaouer&theme=github_dark" width="100%" /></td>
+    <td valign="top" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkaouer&theme=github_dark&utcOffset=-5" width="100%" /></td>
     <td valign="top" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkaouer&theme=github_dark" width="100%" /></td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@
     <td valign="top" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkaouer&theme=github_dark" width="100%" /></td>
   </tr>
   <tr>
-    <td valign="top" colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkaouer&theme=github_dark&utcOffset=-5" width="50%" /></td>
+    <td valign="top" colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkaouer&theme=github_dark" width="50%" /></td>
   </tr>
 </table>
 
